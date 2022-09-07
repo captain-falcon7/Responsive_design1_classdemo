@@ -11,3 +11,7 @@ p{
 	color: #FF0000;
 	font-family: Helvetica;
 }
+
+.large{
+	font-size: 24px;
+}
