@@ -15,3 +15,9 @@ p{
 .large{
 	font-size: 24px;
 }
+#small{
+	font-size:  40px;
+}
+.specialcolor{
+	color: black;
+}
